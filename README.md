@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+8th exercise-app with the objective of create a To-Do List App that allows the user to create, check/uncheck tasks and remove them, while storing all this data persistently on the phone.
 
 A few resources to get you started if this is your first Flutter project:
 
